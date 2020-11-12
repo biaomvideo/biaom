@@ -1,15 +1,5 @@
-
-
-## 亲爱的用户，不要着急。为了给大家带来更好的体验，我们正在对服务器进行维护升级。预计时间不会太久，造成不便，还望谅解。如果维护时间过久，我们会补偿各位的vip时间。
- ####   2020年11月8日
-
-
-
-
-
-
 # biaom
-深夜无聊找表妹。
+深夜无聊找四虎。
 
 永久下载地址：
-https://static.aalafyi.cn/download/index.html
+https://index.aalafyi.cn/index.html
